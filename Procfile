@@ -1,1 +1,1 @@
-web: lein run -m index.html $PORT
+web: node index.js
