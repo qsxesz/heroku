@@ -1,1 +1,1 @@
-web: lein run -m info.html $PORT
+web: lein run -m index.html $PORT
