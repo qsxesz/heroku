@@ -1,1 +1,1 @@
-web: java -jar index.html
+web: lein run -m info.html $PORT
